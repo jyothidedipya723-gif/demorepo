@@ -1,4 +1,7 @@
 # demorepo
 first repository
 <br>
-author-jyothi
+author-(p.jyothi dedipya)
+<br>
+doing changes
+
